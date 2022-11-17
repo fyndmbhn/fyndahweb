@@ -538,10 +538,10 @@ VALUES (' ','123','$date')";
                  <option>Area From</option>
                  <option>1000</option>
                  <option>800</option>
-                 <option>600</option>
-                 <option>400</option>
-                 <option>200</option>
-                 <option>100</option>
+                 <option>60</option>
+                 <option>40</option>
+                 <option>20</option>
+                 <option>10</option>
                </select>
              </div>
              <div class="row">
